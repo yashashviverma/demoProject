@@ -1,3 +1,3 @@
 # demoProject
 This is my first project on github!
-Author - Yashashvi Verma
+Author - Yashashvi Verma(DTU)
